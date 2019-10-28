@@ -1,0 +1,1 @@
+#define POINTS_NUMBER 200  

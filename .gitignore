@@ -1,0 +1,3 @@
+*.o
+dft.bin
+*.elf
